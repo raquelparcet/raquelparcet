@@ -1,5 +1,5 @@
 ## Hi there 👋
-Im currently graduating 
+Let's go! 
 <!--
 **raquelparcet/raquelparcet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
